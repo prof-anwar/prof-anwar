@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @prof-anwar
-- 👀 I’m interested in Machine Learning, Deep Learning, Image Processing and Transfer Learning
+- 👀 I’m interested in AI, Machine Learning, Deep Learning, Image Processing and Transfer Learning
   
 <!---
 prof-anwar/prof-anwar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
